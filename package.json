@@ -1,0 +1,14 @@
+{
+  "name": "markdowneditor",
+  "version": "1.0.0",
+  "description": "Simple markdown editor",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "SrWither",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "marked": "^3.0.2"
+  }
+}
